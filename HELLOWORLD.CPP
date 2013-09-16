@@ -1,5 +1,5 @@
 #include <iostream.h>
 void main()
 {
-	cout<<"helloworld"<<endl;
+	cout<<"helloworld,i am DENGMINGJIAN"<<endl;
 }
